@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1367788716 source:d:\nsu\project(librarymanagement)\library\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<list>
+	"StudentInfo.h"
+	"ArrayObj.h"
+	"UnsortedLinkedList.h"
+	"bookInfo.h"
+	"MemberInfo.h"
+
+1367740528 d:\nsu\project(librarymanagement)\library\bookinfo.h
+	<string>
+	<list>
+
+1367740617 source:d:\nsu\project(librarymanagement)\library\bookinfo.cpp
+	"bookInfo.h"
+
+1367677242 source:d:\nsu\project(librarymanagement)\library\arrayobj.cpp
+	"ArrayObj.h"
+	<iostream>
+	"Studentinfo.h"
+	<string>
+
+1367677196 d:\nsu\project(librarymanagement)\library\arrayobj.h
+	"StudentInfo.h"
+
+1367735938 d:\nsu\project(librarymanagement)\library\studentinfo.h
+	<string>
+
+1367669674 d:\nsu\project(librarymanagement)\library\unsortedlinkedlist.h
+	"UnsortedLinkedList.cpp"
+
+1367747795 d:\nsu\project(librarymanagement)\library\unsortedlinkedlist.cpp
+	"UnsortedLinkedList.h"
+	<cstdlib>
+	<new>
+	<iostream>
+
+1367757390 source:d:\nsu\project(librarymanagement)\library\studentinfo.cpp
+	"StudentInfo.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1367679810 source:d:\nsu\project(librarymanagement)\library\support.cpp
+
+1367747795 source:d:\nsu\project(librarymanagement)\library\unsortedlinkedlist.cpp
+	"UnsortedLinkedList.h"
+	<cstdlib>
+	<new>
+	<iostream>
+
+1367771178 d:\nsu\project(librarymanagement)\library\memberinfo.h
+	<string>
+	<list>
+
+1367771245 source:d:\nsu\project(librarymanagement)\library\memberinfo.cpp
+	"MemberInfo.h"
+
+1367849859 source:d:\library\bookinfo.cpp
+	"bookInfo.h"
+
+1367849919 d:\library\bookinfo.h
+	<string>
+	<list>
+
+1367771245 source:d:\library\memberinfo.cpp
+	"MemberInfo.h"
+
+1367771178 d:\library\memberinfo.h
+	<string>
+	<list>
+
+1367853935 source:d:\library\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<list>
+	"bookInfo.h"
+	"MemberInfo.h"
+
+1367849859 source:d:\nsu\project(librarymanagement)\library(final)\bookinfo.cpp
+	"bookInfo.h"
+
+1367849919 d:\nsu\project(librarymanagement)\library(final)\bookinfo.h
+	<string>
+	<list>
+
+1367855482 source:d:\nsu\project(librarymanagement)\library(final)\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<list>
+	"bookInfo.h"
+	"MemberInfo.h"
+
+1367771178 d:\nsu\project(librarymanagement)\library(final)\memberinfo.h
+	<string>
+	<list>
+
+1367771245 source:d:\nsu\project(librarymanagement)\library(final)\memberinfo.cpp
+	"MemberInfo.h"
+
